@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Blog</title>
+</head>
+<body>
+    <h1>Welcome To My Blog</h1>
+    {% for post in posts %}
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.content }}</p>
+        <a href="/post/{{ post.id }}">Read More</a>
+        <hr>
+    {% endfor %}
+</body>
+</html>

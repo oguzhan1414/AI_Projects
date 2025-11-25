@@ -1,0 +1,2 @@
+Day1: Today I learned about writing files in PythonDay2: Today I built a journal logger today
+ Day2: Today I built a journal logger today
