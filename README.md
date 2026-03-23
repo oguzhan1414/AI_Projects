@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://img.icons8.com/nolan/48/machine-learning.png" alt="Scikit-Learn" title="Scikit-Learn / ML" />
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Machine Learning" title="Machine Learning" />
 </p>
 
 ---
